@@ -1,5 +1,7 @@
+import TypographyParagraph from "./Components/Typography/TypographyParagraph";
+
 function App() {
-  return <></>;
+  return <TypographyParagraph />;
 }
 
 export default App;
